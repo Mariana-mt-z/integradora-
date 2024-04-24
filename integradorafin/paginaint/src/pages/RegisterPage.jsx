@@ -22,7 +22,7 @@ function RegisterPage() {
     return (
         <div className="w-screen h-screen flex justify-center items-center bg-blue-100">
             {/* Lado Izquierdo (Azul) */}
-            <div className="bg-blue-500 w-1/2 h-full flex flex-col justify-center items-center">
+            <div className="bg-blue-800 w-1/2 h-full flex flex-col justify-center items-center">
                 {/* Logo */}
                 <img src={Logo} alt="Logo" className="w-30 h-30 mb-4" />
 
